@@ -4,6 +4,10 @@
 
 ## 👋 Hello, I'm Aminur Rahman
 
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?center=false&width=380&lines=Front-End+Web+Developer;MERN+Stack+Developer;1%2B+years+of+coding+experience;Always+learning+new+things">
+</p>
+
 I'm a passionate front-end web developer on a journey to become a proficient full-stack developer with a focus on the MERN (MongoDB, Express.js, React, Node.js) stack. My coding adventure began with a love for crafting user interfaces that seamlessly blend form and function.
 
 ### 💼 What I Do
@@ -41,7 +45,7 @@ Let's code something amazing together! 🚀
 
 <br>
 
-### 💻 Technology Skills:
+## 💻 Technology Skills:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,7 +63,7 @@ Let's code something amazing together! 🚀
 
 <br/>
 
-### Current Status
+## Current Status
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=aminurjs&theme=blue-green" alt="GitHub Streak"  style="width: 70%;">
