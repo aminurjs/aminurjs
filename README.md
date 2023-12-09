@@ -70,11 +70,11 @@ Let's code something amazing together! 🚀
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aminurjs&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=blue-green" alt="blue-green" style="width: 90%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminurjs&amp;layout=compact&amp;theme=blue-green" alt="Top Langs" style="width: 75%;">
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminurjs&amp;layout=compact&amp;theme=blue-green" alt="Top Langs" style="width: 65%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=aminurjs&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=blue-green" alt="blue-green" style="width: 90%;">
 </p>
 
 <hr/>
