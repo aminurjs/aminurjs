@@ -1,5 +1,46 @@
  <img style="width: 100%;"  src="https://i.ibb.co/YRbQw7D/aminur-rahman.png" />
 
+<br>
+
+## 👋 Hello, I'm Aminur Rahman
+
+I'm a passionate front-end web developer on a journey to become a proficient full-stack developer with a focus on the MERN (MongoDB, Express.js, React, Node.js) stack. My coding adventure began with a love for crafting user interfaces that seamlessly blend form and function.
+
+### 💼 What I Do
+
+- 🚀 Currently mastering the MERN stack.
+- 💡 Transforming ideas into clean, responsive, and intuitive user experiences.
+- 🎨 Crafting pixel-perfect, visually appealing designs.
+- 🤖 Exploring the world of automation and efficiency.
+
+### 🌱 What I'm Learning
+
+I'm constantly expanding my skill set and exploring new technologies. Currently diving into:
+
+- ⚛️ Advanced React patterns and state management.
+- 🌐 Server-side development with Node.js and Express.
+- 📊 Database design and management using MongoDB.
+
+### 🛠️ Tech Stack
+
+- **Languages:** JavaScript (ES6+).
+- **Front-End:** HTML, CSS, React, Tailwind, Material UI, Bootstrap.
+- **Back-End:** Node.js, Express.js, JWT.
+- **Database:** MongoDB, Firebase.
+- **Tools:** Git, VS Code, npm, Chrome Dev tools, Figma, Surge and Vercel.
+
+### 📫 Let's Connect
+
+I'm always open to collaboration and learning from the community. Feel free to reach out for discussions, project ideas, or just to say hi!
+
+- 💼 Email: [dev.aminur@gmail.com](mailto:dev.aminur@gmail.com)
+- 📧 LinkedIn: [Connect Linkedin](https://www.linkedin.com/in/yourlinkedin)
+- 🌐 Portfolio: [VIew Portfolio Website](https://www.yourportfolio.com)
+
+Let's code something amazing together! 🚀
+
+<br>
+
 ### 💻 Technology Skills:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
