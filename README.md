@@ -1,6 +1,4 @@
- <img style="width: 100%;"  src="https://i.ibb.co/T2YHFVm/aminur-rahman.png" />
 
-<br>
 
 ## 👋 Hello, I'm Aminur Rahman
 
