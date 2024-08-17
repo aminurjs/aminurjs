@@ -59,21 +59,5 @@ Let's code something amazing together! 🚀
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-<br/>
 
-## Current Status
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=aminurjs&theme=blue-green" alt="GitHub Streak"  style="width: 70%;">
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminurjs&amp;layout=compact&amp;theme=blue-green" alt="Top Langs" style="width: 75%;">
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aminurjs&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=blue-green" alt="blue-green" style="width: 90%;">
-</p>
-
-<hr/>
-<br/>
