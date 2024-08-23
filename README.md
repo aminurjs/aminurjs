@@ -6,16 +6,16 @@ I'm a **full stack web developer** with a focus on building clean, responsive, a
 
 ## 🔧 Skills
 
-**Front-end:** 
+- **Front-end:** 
 Next.js, React, TypeScript, Tailwind CSS, Redux, React-Router, Shadcn-UI, GSAP, WordPress
 
-**Back-end:**
+- **Back-end:**
 Node.js, Express, Rest-API, JWT, Stripe
 
-**Databases:** 
+- **Databases:** 
 MongoDB, Firebase
 
-**Tools:** 
+- **Tools:** 
 VS Code, Postman, Figma, ChatGPT, GitHub, Photoshop
 
 ---
