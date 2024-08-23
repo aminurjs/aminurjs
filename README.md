@@ -6,25 +6,25 @@ I'm a **full stack web developer** with a focus on building clean, responsive, a
 
 ## 🔧 Skills
 
-### Front-end
-**Next.js**, **React**, **TypeScript**, **Tailwind CSS**, **Redux**, **React-Router**, **Shadcn-UI**, **GSAP**, **WordPress**
+**Front-end:** 
+Next.js, React, TypeScript, Tailwind CSS, Redux, React-Router, Shadcn-UI, GSAP, WordPress
 
-### Back-end
-**Node.js**, **Express**, **Rest-API**, **JWT**, **Stripe**
+**Back-end:**
+Node.js, Express, Rest-API, JWT, Stripe
 
-### Databases
-**MongoDB**, **Firebase**
+**Databases:** 
+MongoDB, Firebase
 
-### Tools
-**VS Code**, **Postman**, **Figma**, **ChatGPT**, **GitHub**, **Photoshop**
+**Tools:** 
+VS Code, Postman, Figma, ChatGPT, GitHub, Photoshop
 
 ---
 
 ## 🛠️ Projects
 
-- **[Next e-Commerce Web Shop](#):** A modern online store built with Next.js.
-- **[Dua-Ruqyah Web App](#):** A platform for learning authentic Duas.
-- **[Responsive Dashboard](#):** A dashboard with dark and light modes.
+- **[Next e-Commerce Web Shop](https://next-ecommerce-six-iota.vercel.app/):** A modern online store built with Next.js.
+- **[Dua-Ruqyah Web App](https://dua-ruqyah-two.vercel.app/):** A platform for learning authentic Duas.
+- **[Responsive Dashboard](https://reactdashbord.web.app/):** A dashboard with dark and light modes.
 
 ---
 
