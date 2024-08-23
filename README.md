@@ -7,34 +7,16 @@ I'm a **full stack web developer** with a focus on building clean, responsive, a
 ## 🔧 Skills
 
 ### Front-end
-- **Next.js**
-- **React**
-- **TypeScript**
-- **Tailwind CSS**
-- **Redux**
-- **React-Router**
-- **Shadcn-UI**
-- **GSAP**
-- **WordPress**
+**Next.js**, **React**, **TypeScript**, **Tailwind CSS**, **Redux**, **React-Router**, **Shadcn-UI**, **GSAP**, **WordPress**
 
 ### Back-end
-- **Node.js**
-- **Express**
-- **Rest-API**
-- **JWT**
-- **Stripe**
+**Node.js**, **Express**, **Rest-API**, **JWT**, **Stripe**
 
 ### Databases
-- **MongoDB**
-- **Firebase**
+**MongoDB**, **Firebase**
 
 ### Tools
-- **VS Code**
-- **Postman**
-- **Figma**
-- **ChatGPT**
-- **GitHub**
-- **Photoshop**
+**VS Code**, **Postman**, **Figma**, **ChatGPT**, **GitHub**, **Photoshop**
 
 ---
 
