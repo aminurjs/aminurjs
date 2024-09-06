@@ -16,7 +16,7 @@ Node.js, Express, Rest-API, JWT, Stripe
 MongoDB, Firebase
 
 - **Tools:** 
-VS Code, Postman, Figma, ChatGPT, GitHub, Photoshop
+GIT, VS Code, Postman, Figma, ChatGPT, GitHub, Photoshop
 
 ---
 
