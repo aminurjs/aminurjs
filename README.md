@@ -30,6 +30,6 @@ GIT, VS Code, Postman, Figma, ChatGPT, GitHub, Photoshop
 
 ## 📫 Get in Touch
 
-- **Portfolio:** [aminur-dev.web.app](https://dev-aminur.web.app/)
+- **Portfolio:** [aminur-dev.web.app](https://aminur-dev.web.app/)
 - **Email:** dev.aminur@gmail.com
 - **LinkedIn:** [dev-aminur](https://www.linkedin.com/in/dev-aminur/)
